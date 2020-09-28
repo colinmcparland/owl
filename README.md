@@ -4,10 +4,10 @@
 
 ### Packages
 
-`styled-components` for a CSS-in-JS solution.
-`react-virtualized` for virtualized list.
-`react-beautiful-dnd` for drag and drop functionality.
-`create-react-app` for bootstrapping.
+`styled-components` for a CSS-in-JS solution.<br />
+`react-virtualized` for virtualized list.<br />
+`react-beautiful-dnd` for drag and drop functionality.<br />
+`create-react-app` for bootstrapping.<br />
 
 ### Directory structure
 
