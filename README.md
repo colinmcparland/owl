@@ -8,6 +8,7 @@
 `react-virtualized` for virtualized list.<br />
 `react-beautiful-dnd` for drag and drop functionality.<br />
 `create-react-app` for bootstrapping.<br />
+`prettier` and `eslint` for linting.
 
 ### Directory structure
 
