@@ -1,4 +1,4 @@
-[Owldotco Logo](https://media-exp1.licdn.com/dms/image/C560BAQFt4shGwCQIQw/company-logo_200_200/0?e=1609372800&v=beta&t=7yn8roOOfYGByppfED8frv21cVjJuoOn4Mk3YafPiNM);
+[Owldotco Logo](https://media-exp1.licdn.com/dms/image/C560BAQFt4shGwCQIQw/company-logo_200_200/0?e=1609372800&v=beta&t=7yn8roOOfYGByppfED8frv21cVjJuoOn4Mk3YafPiNM)
 
 ## Frontend Assignment
 
